@@ -3,17 +3,18 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: d872acda4f2eeef449a0ae500eb93154, type: 3}
   m_Name: Card_EnslaveThem
-  m_EditorClassIdentifier: Assembly-CSharp::Card_Spell
-  cardName: Enslave Them
+  m_EditorClassIdentifier: 
+  cardName: Enslave Them!
   type: 1
   cost: 2
   range: 1
-  flavor_text: Steal their Mana Source
+  flavor_text: steal their mana source
   card_image: {fileID: 21300000, guid: 1aa56f6e1b5860c4d86b0d3a921d29fb, type: 3}

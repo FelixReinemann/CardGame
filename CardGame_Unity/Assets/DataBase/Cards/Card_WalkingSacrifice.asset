@@ -3,19 +3,20 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: a6109b0d30c90ca42bdfb8d7b83a22ad, type: 3}
   m_Name: Card_WalkingSacrifice
-  m_EditorClassIdentifier: Assembly-CSharp::Card_Unit
-  cardName: Walking Sacrifice
+  m_EditorClassIdentifier: 
+  cardName: 
   type: 0
   cost: 0
   range: 0
-  flavor_text: We are the one
+  flavor_text: we are the one
   card_image: {fileID: 21300000, guid: 1aa56f6e1b5860c4d86b0d3a921d29fb, type: 3}
   unit: {fileID: 11400000, guid: 56780ae2c43e33144a7ce8f52eb59d37, type: 2}
   unitCount: 1
