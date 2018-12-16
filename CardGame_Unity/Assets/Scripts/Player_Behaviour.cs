@@ -69,11 +69,6 @@ public class Player_Behaviour : MonoBehaviour {
 
 }
 
-[CreateAssetMenu(fileName = "New Deck", menuName = "Deck")]
-public class CardList : ScriptableObject {
 
-    public List<Card_Data> cards;
-
-}
 
 
